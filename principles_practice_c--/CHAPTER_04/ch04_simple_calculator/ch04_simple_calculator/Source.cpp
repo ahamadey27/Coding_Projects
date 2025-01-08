@@ -1,12 +1,10 @@
 #include <iostream>
-#include <vector>
 
 
 int main()
 {
-	std::vector<string> numString = { "one", "two", "three", "four", 
-									"five", "six", "seven", "eight", "nine" };
-	double num1, num2;
+	double num1, num2;;
+	
 	char op;
 
 	std::cout << "Enter first number: \n";

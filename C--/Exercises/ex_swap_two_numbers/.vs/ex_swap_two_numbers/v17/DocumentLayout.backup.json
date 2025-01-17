@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Coding_Projects\\C--\\Exercises\\ex_swap_two_numbers\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8C933833-22C1-4931-AB51-12047D642DCF}|ex_swap_two_numbers\\ex_swap_two_numbers.vcxproj|D:\\Coding_Projects\\C--\\Exercises\\ex_swap_two_numbers\\ex_swap_two_numbers\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8C933833-22C1-4931-AB51-12047D642DCF}|ex_swap_two_numbers\\ex_swap_two_numbers.vcxproj|solutionrelative:ex_swap_two_numbers\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "D:\\Coding_Projects\\C--\\Exercises\\ex_swap_two_numbers\\ex_swap_two_numbers\\Source.cpp",
+              "RelativeDocumentMoniker": "ex_swap_two_numbers\\Source.cpp",
+              "ToolTip": "D:\\Coding_Projects\\C--\\Exercises\\ex_swap_two_numbers\\ex_swap_two_numbers\\Source.cpp",
+              "RelativeToolTip": "ex_swap_two_numbers\\Source.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-17T16:43:52.943Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
